@@ -4,7 +4,7 @@
 ## 概要
 あるフォルダの「ファイル名」や「フォルダ名」を、B'zの曲名にランダムで一括変更します。
 
-[![Image from Gyazo](https://i.gyazo.com/d116833dab309d73734ed1d83f1fb64c.png)](https://gyazo.com/d116833dab309d73734ed1d83f1fb64c)
+[![Image from Gyazo](https://i.gyazo.com/d1d7709fd08789e70524e358dffa05f4.png)](https://gyazo.com/d1d7709fd08789e70524e358dffa05f4)
 
 ## 使い方
 1. 右上のCodeボタン（緑色）からZipでダウンロードする。
